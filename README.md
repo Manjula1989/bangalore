@@ -18,21 +18,21 @@ This project explores the Netflix titles dataset to gain insights into the platf
 
 ## 🎯 Objectives
 
-- Clean and preprocess the Netflix dataset.
-- Perform Exploratory Data Analysis to identify key trends in content types, countries, genres, and release timelines.
-- Use KMeans clustering to segment titles based on duration and year added.
-- Build a Logistic Regression model to predict whether a title is a Movie or TV Show.
+- Clean and preprocess the Netflix dataset.  
+- Perform Exploratory Data Analysis to identify key trends in content types, countries, genres, and release timelines.  
+- Use KMeans clustering to segment titles based on duration and year added.  
+- Build a Logistic Regression model to predict whether a title is a Movie or TV Show.  
 - Translate insights into actionable business recommendations.
 
 ---
 
 ## 📊 Key Insights
 
-- **Content Type**: Movies make up nearly 70% of Netflix's library.
-- **Country Distribution**: The United States, India, and the UK lead in content contribution.
-- **Genres**: Drama, Comedy, and Documentaries are the most popular genres.
-- **Content Growth**: A sharp increase in new titles occurred between 2016 and 2020.
-- **Clustering**: Helped identify segments like older short-form vs. newer long-form content.
+- **Content Type**: Movies make up nearly 70% of Netflix's library.  
+- **Country Distribution**: The United States, India, and the UK lead in content contribution.  
+- **Genres**: Drama, Comedy, and Documentaries are the most popular genres.  
+- **Content Growth**: A sharp increase in new titles occurred between 2016 and 2020.  
+- **Clustering**: Helped identify segments like older short-form vs. newer long-form content.  
 - **Classification**: Logistic Regression achieved good accuracy in predicting content type using metadata like duration and year added.
 
 ---
@@ -48,20 +48,26 @@ This project explores the Netflix titles dataset to gain insights into the platf
 
 ## 🧠 Business Value
 
-- Helps Netflix optimize content acquisition strategies based on content type and geography.
-- Provides a way to automate content classification using metadata.
+- Helps Netflix optimize content acquisition strategies based on content type and geography.  
+- Provides a way to automate content classification using metadata.  
 - Clustering can inform personalized recommendations and regional strategies.
 
 ---
 
 ## 📎 Project Structure
 
+netflix-titles-capstone/
+│
+├── netflix_titles.csv # Dataset file
+├── netflix_capstone_notebook.ipynb # Main Colab notebook
+├── README.md # Project overview and instructions
+
 
 ---
 
 ## 🔗 GitHub Repository
 
-[📁 Netflix Titles Capstone Project on GitHub](https://github.com/Manjula1989/netflix-titles-capstone.git)
+[📁 Netflix Titles Capstone Project on GitHub](https://github.com/Manjula1989/bangalore.git)
 
 ---
 
@@ -74,4 +80,3 @@ This project demonstrates how exploratory data analysis combined with machine le
 ## 🎉 Final Note
 
 **Hurrah! You have successfully completed your EDA Capstone Project!!!**
-
